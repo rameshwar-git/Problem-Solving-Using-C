@@ -1,7 +1,8 @@
+
 #include<stdio.h>
 int main()
 {
-    int num=6;
+    int num=3;
     for(int row=0;row<=num;row++)
     {
         for(int star=num;star>=row;star--)
